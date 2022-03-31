@@ -14,4 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> This is Ryan 👨‍💻
+
+
+- 🔧 I'm focusing on high-performance `matching-engine` and `deterministic trading system`.
+- 🔭 I’m currently working in the blockchain field.
+- 🌱 I’m currently using `Golang` `Java` `Rust`
+- 💡 I have experience with `Kubernetes` `Istio` `Dapr`.
+- 📫 How to reach me: [Telegram](https://t.me/fann022)
+ 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yufan022&count_private=true&show_icons=true)
