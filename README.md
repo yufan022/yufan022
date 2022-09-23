@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Hi, This is Ryan 👨‍💻
 
 
-- 🔧 I'm focusing on high-performance `matching-engine` and `deterministic trading system`.
+- 🔧 I'm focusing on high-performance `matching-engine/market/settlement` `deterministic trading system`.
 - 🌱 I’m currently using `Golang` `Java` `Rust`
 - 💡 I have experience with `Kubernetes` `Istio` `Dapr` `Rancher` `CRD Controller`.
 - 📫 How to reach me: [Telegram](https://t.me/fann022)
