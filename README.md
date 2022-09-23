@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 
 - 🔧 I'm focusing on high-performance `matching-engine` and `deterministic trading system`.
-- 🔭 I’m currently working in the blockchain field.
 - 🌱 I’m currently using `Golang` `Java` `Rust`
 - 💡 I have experience with `Kubernetes` `Istio` `Dapr` `Rancher` `CRD Controller`.
 - 📫 How to reach me: [Telegram](https://t.me/fann022)
