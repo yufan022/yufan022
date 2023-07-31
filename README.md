@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 - 🔧 I'm focusing on high-performance `matching-engine/market/settlement` `deterministic trading system`.
-- 🌱 I’m currently using `Golang` `Java`, and beginner of `rust`.
+- 🌱 I’m currently using `Golang` `Java` `rust`.
 - 💡 I have experience with `Kubernetes` `Istio` `Dapr` `Rancher` `CRD Controller`.
 - 📫 How to reach me: [Telegram](https://t.me/fann022)
  
